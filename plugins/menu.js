@@ -22,7 +22,7 @@ function clockString(ms) {
 
 pp = await conn.getProfilePicture(global.conn.user.jid)
 
-conn.send2ButtonImg(m.chat, 'Halo Kak Saya DZBotzz Jika Anda Pengguna GBWhatsapp Ketik .allmenu/.command\nhttps://bit.ly/3r5PqLZ', 'https://telegra.ph/file/daa5b421ce836642298b4.jpg', 
+conn.send2ButtonImg(m.chat, 'Halo Kak Saya DZBotzz Jika Anda Pengguna GBWhatsapp Ketik .allmenu/.command\nhttps://bit.ly/3r5PqLZ', 'https://telegra.ph/file/bbd0c9e4e8dda4d31fe73.jpg', 
 
 `*INFO=*
 
